@@ -24,7 +24,6 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
-                <p>KD - edit to see pipeline function.</p>
 
             </div>
         </div>
